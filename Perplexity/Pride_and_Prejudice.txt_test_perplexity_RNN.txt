@@ -1,0 +1,593 @@
+Sentence                                                                        Perplexity
+====================================================================================================
+<s> your s very sincerely m </s>                                                1143.62120
+<s> oh </s>                                                                     10.39406
+<s> he concluded with representing to her the strength of that attachment which in spite of all his endeavours he had found impossible to conquer and with expressing his hope that it would now be rewarded by her acceptance of his hand </s>173.00588
+<s> to be sure it would have been more for the advantage of conversation had miss lydia bennet come upon the town or as the happiest alternative been secluded from the world in some distant farm house </s>373.73724
+<s> who should suffer but myself </s>                                           614.42198
+<s> what an agreeable man sir william is mr bingley is not he </s>              71.71951
+<s> certainly sir and it has the advantage also of being in vogue amongst the less polished societies of the world every savage can dance </s>1932.92767
+<s> my total ignorance of the connection must plead my apology </s>             4449.00363
+<s> it only shews her being deficient in something herself sense or feeling </s>1136.07388
+<s> yet the misery for which years of happiness were to offer no compensation received soon afterwards material relief from observing how much the beauty of her sister the admiration of her former lover </s>456.67389
+<s> his behaviour was attentive and kind to the utmost </s>                     275.49326
+<s> here again i shall give you pain to what degree you only can tell </s>      270.62878
+<s> mrs bennet was perfectly satisfied and quitted the house under the delightful persuasion that allowing for the necessary preparations of settlements new carriages and wedding clothes she should undoubtedly see her daughter settled at netherfield in the course of three or four months </s>289.67451
+<s> he scarcely ever spoke to her and the assiduous attentions which he had been so sensible of himself were transferred for the rest of the day to miss lucas whose civility in listening to him was a seasonable relief to them all and especially to her friend </s>152.18079
+<s> intending to trace their route </s>                                         1313.68393
+<s> already arisen </s>                                                         1080.25660
+<s> you are quite a visit in my debt mr bingley she added for when you went to town last winter you promised to take a family dinner with us as soon as you returned </s>111.19762
+<s> you wish to think all the world respectable and are hurt if i speak ill of any body </s>212.88205
+<s> but i dare not hope it </s>                                                 56.24974
+<s> mr bennet s property consisted almost entirely in an estate of two thousand a year which unfortunately for his daughters was entailed in default of heirs male on a distant relation and their mother s fortune though ample for her situation in life could but ill supply the deficiency of his </s>814.81567
+<s> he dined with us the next day and was to leave town again on wednesday or thursday </s>148.31426
+<s> lady catherine herself says that in point of true beauty miss de bourgh is far superior to the handsomest of her sex because there is that in her features which marks the young woman of distinguished birth </s>210.04164
+<s> i don t know </s>                                                           98.25601
+<s> observing his second daughter employed in trimming a hat he suddenly addressed her with i hope mr bingley will like it lizzy </s>591.94899
+<s> or why did he thus come a day before he was expected </s>                   167.71191
+<s> mrs bennet had seen her eldest daughter much admired by the netherfield party </s>84.27537
+<s> but now that my dear uncle is come i hope every thing will be well </s>     64.29263
+<s> we had better not mention it </s>                                           26.03980
+<s> chapter xii </s>                                                            29.11342
+<s> this son was to join in cutting off the entail as soon as he should be of age and the widow and younger children would by that means be provided for </s>439.30236
+<s> they came </s>                                                              193.23212
+<s> five daughters brought up at home without a governess i never heard of such a thing </s>75.01027
+<s> mr collins made his declaration in form </s>                                204.79101
+<s> the church ought to have been my profession i was brought up for the church and i should at this time have been in possession of a most valuable living had it pleased the gentleman we were speaking of just now </s>121.32228
+<s> from what he said of miss darcy i was thoroughly prepared to see a proud reserved disagreeable girl </s>367.24063
+<s> we are not on friendly terms and it always gives me pain to meet him but i have no reason for avoiding him but what i might proclaim to all the world a sense of very great ill usage and most painful regrets at his being what he is </s>244.59079
+<s> these were the contents my dear harriet you will laugh when you know where i am gone and i cannot help laughing myself at your surprise <TIME> as soon as i am missed </s>193.77652
+<s> mrs bennet said only nonsense nonsense </s>                                 369.80181
+<s> i am no longer surprised at your knowing only six accomplished women </s>   311.50934
+<s> i am not to be intimidated into anything so wholly unreasonable </s>        414.38515
+<s> mr bingley was unaffectedly civil in his answer and forced his younger sister to be civil also and say what the occasion required </s>336.79975
+<s> she liked him too little to care for his approbation </s>                   95.70830
+<s> i scarcely know any one who cannot do all this and i am sure i never heard a young lady spoken of for the first time without being informed that she was very accomplished </s>87.04597
+<s> but she is nothing to me now </s>                                           29.75380
+<s> we were married you know at st clement s because wickham s lodgings were in that parish </s>723.74787
+<s> aye no doubt but that is what a governess will prevent and if i had known your mother i should have advised her most strenuously to engage one </s>342.43814
+<s> and to be kept back on such a motive i think it would not be very likely to promote sisterly affection or delicacy of mind </s>231.28820
+<s> let us hope therefore that her being there may teach her her own insignificance </s>286.35745
+<s> the first half hour was spent in piling up the fire lest she should suffer from the change of room and she removed at his desire to the other side of the that she might be farther from the door </s>202.65496
+<s> to kitty however it does not seem so wholly unexpected </s>                 91.60729
+<s> pray forgive me if i have been very presuming or at least do not punish me so far as to exclude me from p </s>417.05710
+<s> kitty then owned with a very natural triumph on knowing more than the rest of us that in lydia s last letter she had prepared her for such a step </s>186.66788
+<s> at our time of life it is not so pleasant i can tell you to be making new acquaintance every day but for your sakes we would do any thing </s>141.14041
+<s> i had no notion but he would go a shooting or something or other and not disturb us with his company </s>384.15147
+<s> then addressing her daughter oh </s>                                        391.66449
+<s> one <TIME> soon after their arrival as she was sitting with her two elder sisters she said to elizabeth lizzy i never gave you an account of my wedding i believe </s>120.97198
+<s> elizabeth smiled </s>                                                       49.85414
+<s> information about the mission of project project is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete old and new computers </s>1470.66142
+<s> the promised letter of thanks from mr collins arrived on tuesday addressed to their father and written with all the solemnity of gratitude which a twelvemonth s abode in the family might have prompted </s>277.45083
+<s> sir william lucas and his daughter maria a good humoured girl but as as himself had nothing to say that could be worth hearing and were listened to with about as much delight as the rattle of the chaise </s>297.48960
+<s> mrs collins did i tell you of lady metcalfe s calling yesterday to thank me </s>318.43221
+<s> after sitting a little while with jane on miss bingley s appearance and invitation the mother and three daughters all attended her into the breakfast parlour </s>217.30489
+<s> it appeared to her merely the suggestion of caroline s interested wishes and she could not for a moment suppose that those wishes however openly or artfully spoken could influence a young man so totally independent of every one </s>922.12224
+<s> when she is secure of him there will be leisure for falling in love as much as she chuses </s>89.48999
+<s> this information however startled mrs bennet she would have been glad to be equally satisfied that her daughter had meant to encourage him by protesting against his proposals but she dared not to believe it and could not help saying so </s>135.33710
+<s> if there had not been a netherfield ball to prepare for and talk of the younger miss bennets would have been in a pitiable state at this time for from the day of the invitation to the day of the ball there was such a succession of rain as prevented their walking to meryton once </s>134.34449
+<s> elizabeth asked questions in vain maria would tell her nothing more and down they ran into the which fronted the lane in quest of this wonder it was two ladies stopping in a low phaeton at the garden gate </s>396.01288
+<s> i certainly shall not </s>                                                  51.31403
+<s> mrs bennet and her daughters then departed and elizabeth returned instantly to jane leaving her own and her relations behaviour to the remarks of the two ladies and mr darcy the latter of whom however could not be prevailed on to join in their censure of her in spite of all miss bingley s witticisms on fine eyes </s>106.00760
+<s> i am sorry it went off </s>                                                 39.51672
+<s> wickham is safe </s>                                                        111.01023
+<s> i shall see her in january </s>                                             99.00445
+<s> in the hall they parted </s>                                                51.05088
+<s> elizabeth made no attempt to reason with her mother but remained quietly in the hall till she and kitty were out of sight then returned into the </s>161.01287
+<s> no my dear you had better go on horseback because it seems likely to rain and then you must stay all <TIME> </s>149.79637
+<s> this must be a most inconvenient sitting room for the <TIME> in summer the windows are full west </s>365.17991
+<s> he expressed no regret for what he had done which satisfied her his style was not penitent but haughty </s>554.09945
+<s> i fancy she was wanted about the mince pies </s>                            1362.76349
+<s> she was quite amazed at her own discomposure but amongst other causes of disquiet she dreaded lest the partiality of the brother should have said too much in her favour and more than commonly anxious to please she naturally suspected that every power of pleasing would fail her </s>555.17162
+<s> mr darcy took her place by her niece and they walked on together </s>       58.42811
+<s> i must have my share in the conversation if you are speaking of music </s>  36.61820
+<s> elizabeth with a triumphant sensation looked towards his friend </s>        143.27502
+<s> mr darcy you see is the man </s>                                            98.23582
+<s> not lydia only but all were concerned in it and after the first exclamations of surprise and horror mr gardiner readily promised every assistance in his power elizabeth though expecting no less thanked him with tears of gratitude and all three being actuated by one spirit every thing relating to their journey was speedily settled </s>442.13919
+<s> with a renewal of tenderness however they repaired to her room on leaving the and sat with her till summoned to coffee </s>352.70165
+<s> for heaven s sake madam speak lower what advantage can it be to you to offend mr darcy you will never recommend yourself to his friend by so doing </s>377.40832
+<s> i was in the middle before i knew that i had begun </s>                     136.79406
+<s> elizabeth listened with delight to the happy though modest hopes which jane entertained of bingley s regard and said all in her power to heighten her confidence in it </s>309.60615
+<s> they could have been understood only by her mother who might have felt nearly the same </s>117.45056
+<s> if she heard me it was by good luck for i am sure she did not listen </s>   60.14730
+<s> do not unlink or detach or remove the full project license terms from this work or any files containing a part of this work or any other work associated with project </s>307.19619
+<s> his name had never been voluntarily mentioned before them by her niece and the kind of which mrs gardiner had formed of their being followed by a letter from him had ended in nothing </s>133.61026
+<s> the rest of his letter is only about his dear charlotte s situation and his expectation of a young </s>58.15195
+<s> such i was from eight to eight and twenty and such i might still have been but for you dearest loveliest elizabeth </s>636.42060
+<s> if he wants our society let him seek it </s>                                482.72686
+<s> cried elizabeth brightening up for a moment </s>                            407.67543
+<s> i believe ma am i may safely promise you never to dance with him </s>       110.93165
+<s> how i long to see her again </s>                                            31.85124
+<s> not perhaps of neglecting his own interest </s>                             474.85100
+<s> she is a very good kind of girl i believe </s>                              19.56358
+<s> i am afraid mr darcy observed miss bingley in a half whisper that this adventure has rather affected your admiration of her fine eyes </s>242.10910
+<s> i thank you again and again for the honour you have done me in your proposals but to accept them is absolutely impossible </s>100.69967
+<s> the former was divided between admiration of the brilliancy which exercise had given to her complexion and doubt as to the occasion s justifying her coming so far alone </s>404.99792
+<s> this madam is a faithful narrative of every event in which we have been concerned together and if you do not absolutely reject it as false you will i hope acquit me henceforth of cruelty towards mr wickham </s>270.66156
+<s> a fortunate chance had recommended him to lady catherine de bourgh when the living of hunsford was vacant and the respect which he felt for her high rank and his veneration for her as his patroness mingling with a very good opinion of himself of his authority as a clergyman and his rights as a rector made him altogether a mixture of pride and obsequiousness and humility </s>415.19351
+<s> the fishing scheme had been renewed the day before and a positive engagement made of his meeting some of the gentlemen at pemberley by noon </s>344.77784
+<s> her heart had been but slightly touched and her vanity was satisfied with believing that she would have been his only choice had fortune permitted it </s>161.80338
+<s> as all conversation was thereby at an end elizabeth soon afterwards left the room </s>154.19742
+<s> lydia was lydia still untamed unabashed wild noisy and fearless </s>        18269.98785
+<s> as no objection was made to the young people s engagement with their aunt and all mr collins s scruples of leaving mr and mrs bennet for a single <TIME> during his visit were most steadily resisted the coach conveyed him and his five cousins at a suitable hour to meryton and the girls had the pleasure of hearing as they entered the that mr wickham had accepted their uncle s invitation and was then in the house </s>182.90985
+<s> believe me my dear sir my gratitude is warmly excited by such affectionate attention and depend upon it you will speedily receive from me a letter of thanks for this as well as for every other mark of your regard during my stay in hertfordshire </s>211.64713
+<s> bingley had never met with pleasanter people or prettier girls in his life every body had been most kind and attentive to him there had been no formality no stiffness he had soon felt acquainted with all the room and as to miss bennet he could not conceive an angel more beautiful </s>214.44830
+<s> it is really too distressing </s>                                           158.34504
+<s> the least agreeable circumstance in the business was the surprise it must occasion to elizabeth bennet whose friendship she valued beyond that of any other person </s>346.73748
+<s> elizabeth however astonished was at least more prepared for an interview than before and resolved to appear and to speak with calmness if he really intended to meet them </s>388.85547
+<s> mr wickham did not play at whist and with ready delight was he received at the other table between elizabeth and lydia </s>231.08944
+<s> but of every other neglect i can believe him capable </s>                   122.39656
+<s> it must make you better satisfied that your other four are single </s>      284.92595
+<s> his eyes had been soon and repeatedly turned towards them with a look of curiosity and that her ladyship after a while shared the feeling was more openly acknowledged for she did not scruple to call out what is that you are saying fitzwilliam </s>173.04276
+<s> stupid men are the only ones worth knowing after all </s>                   915.29532
+<s> if you do not charge anything for copies of this ebook complying with the rules is very easy </s>189.33761
+<s> miss bennet s pleasing manners grew on the good will of mrs hurst and miss bingley and though the mother was found to be intolerable and the younger sisters not worth speaking to a wish of being better acquainted with them was expressed towards the two eldest </s>118.40995
+<s> of whom does jane ever think ill </s>                                       397.23899
+<s> chapter iv </s>                                                             37.51878
+<s> my conscience told me that i deserved no extraordinary politeness and i confess that i did not expect to receive more than my due </s>197.75017
+<s> aye so it is cried her mother and mrs long does not come back till the day before so it will be impossible for her to introduce him for she will not know him herself </s>71.78999
+<s> as my word </s>                                                             268.38205
+<s> nothing occurred between them that could justify the hopes of his sister </s>221.84416
+<s> i do not see what right mr darcy had to decide on the propriety of his friend s inclination or why upon his own judgment alone he was to determine and direct in what manner that friend was to be happy </s>121.08168
+<s> do you certainly leave kent on saturday </s>                                66.48851
+<s> at five o clock the two ladies retired to dress and at half past six elizabeth was summoned to dinner </s>373.51704
+<s> i will have no reserves from you </s>                                       45.15849
+<s> elizabeth was delighted </s>                                                48.87784
+<s> she cried this is delightful indeed she will be married i shall see her again she will be married at sixteen my good kind brother i knew how it would be i knew he would manage every thing </s>118.75040
+<s> i am happier even than jane she only smiles i laugh </s>                    674.68440
+<s> he saw wickham and afterwards insisted on seeing lydia </s>                 593.95561
+<s> it is excellent news capital news and about a certain person that we all like </s>579.43854
+<s> there was now an interest however in believing the housekeeper and they soon became sensible that the authority of a servant who had known him since he was four years old and whose own manners indicated respectability was not to be hastily rejected </s>232.93721
+<s> kitty is slight and delicate and mary studies so much that her hours of repose should not be broken in on </s>907.45213
+<s> i am astonished my dear said mrs bennet that you should be so ready to think your own children silly </s>52.43668
+<s> mr bingley arrived </s>                                                     155.25949
+<s> i do not pretend to regret any thing i shall leave in hertfordshire except your society my dearest friend but we will hope at some future period to enjoy many returns of the delightful intercourse we have known and in the mean while may lessen the pain of separation by a very frequent and most unreserved correspondence </s>447.81903
+<s> on the very day of my coming home from longbourn your uncle had a most unexpected visitor </s>100.14201
+<s> but papa is so disagreeable </s>                                            292.19700
+<s> as long as she stays there it is all very well </s>                         193.52295
+<s> i hope he will overlook it </s>                                             73.60979
+<s> she studied every sentence and her feelings towards its writer were at times widely different </s>436.20866
+<s> we now come to the point </s>                                               108.05126
+<s> as soon as jane had read mr gardiner s hope of lydia s being soon married her joy burst forth and every following sentence added to its exuberance </s>346.92271
+<s> to jane herself she exclaimed there could be no possibility of objection </s>164.07759
+<s> affectation of candour is common enough one meets it every where </s>       6229.03450
+<s> chapter xiii </s>                                                           42.59582
+<s> elizabeth was the least dear to her of all her children and though the man and the match were quite good enough for her the worth of each was eclipsed by mr bingley and netherfield </s>136.02263
+<s> a fortnight s acquaintance is certainly very little </s>                    112.80609
+<s> and which of the two do you call my little recent piece of modesty </s>     915.87074
+<s> will you give me leave to defer your raptures till i write again at present i have not room to do them justice </s>121.32228
+<s> i might as well enquire replied she why with so evident a design of offending and insulting me you chose to tell me that you liked me against your will against your reason and even against your character </s>352.03611
+<s> to yield without conviction is no compliment to the understanding of either </s>340.52927
+<s> you may well warn me against such an evil </s>                              98.03469
+<s> no one made any reply </s>                                                  145.33177
+<s> he repeated the question with some surprise at her silence </s>             182.78204
+<s> how strange this is </s>                                                    81.61700
+<s> her colour changed and she said no more </s>                                65.64136
+<s> mr darcy was almost as far from her as the table could divide them </s>     113.42984
+<s> they were within twenty yards of each other and so abrupt was his appearance that it was impossible to avoid his sight </s>332.93845
+<s> what a good joke it will be </s>                                            128.48174
+<s> you are very cruel said her sister you will not let me smile and are provoking me to it every moment </s>132.58680
+<s> elizabeth answered only by a slight bow </s>                                46.16366
+<s> we do not solicit donations in locations where we have not received written confirmation of compliance </s>567.25009
+<s> it was an encouragement of vice and had i been the rector of longbourn i should very strenuously have opposed it </s>313.27362
+<s> and your assurance of it i suppose carried immediate conviction to him </s> 1053.93760
+<s> bingley was quite uncomfortable his sisters declared that they were miserable </s>296.98757
+<s> i admire the activity of your benevolence observed mary but every impulse of feeling should be guided by reason and in my opinion exertion should always be in proportion to what is required </s>485.88072
+<s> nothing child nothing </s>                                                  1236.09895
+<s> was a question which elizabeth received from jane as soon as she entered the room and from all the others when they sat down to table </s>32.91759
+<s> here consequently was an inexhaustible subject of discourse </s>            1300.28980
+<s> my daughter and my nephew are formed for each other </s>                    112.91539
+<s> my father is going to london with colonel forster instantly to try to discover her </s>106.00598
+<s> your father was gone your uncle at home and as i said before they had a great deal of talk together </s>117.25934
+<s> her tour to the lakes was now the object of her happiest thoughts it was her best consolation for all the uncomfortable hours which the discontentedness of her mother and kitty made inevitable and could she have included jane in the scheme every part of it would have been perfect </s>247.66897
+<s> he comes down on thursday at the latest very likely on wednesday </s>       700.15782
+<s> shall we ask him why a man of sense and education and who has lived in the world is ill qualified to recommend himself to strangers </s>99.16774
+<s> all meryton seemed striving to blacken the man who but three months before had been almost an angel of light </s>749.08476
+<s> i have no reason i assure you said he to be dissatisfied with my reception </s>46.19959
+<s> but however he is very welcome to come to netherfield if he likes it </s>   66.82890
+<s> there were two nephews of lady catherine to require them for mr darcy had brought with him a colonel fitzwilliam the younger son of his uncle lord and to the great surprise of all the party when mr collins returned the gentlemen accompanied him </s>156.83531
+<s> can such abominable pride as his have ever done him good </s>               344.15171
+<s> will you tell me how long you have loved him </s>                           46.13080
+<s> i cannot understand it </s>                                                 30.41265
+<s> we will go as far as meryton with you said catherine and lydia elizabeth accepted their company and the three young ladies set off together </s>146.90535
+<s> i leave it to yourself to determine said mr bennet </s>                     115.78066
+<s> the satisfaction of prevailing on one of the most worthless young men in great britain to be her husband might then have rested in its proper place </s>930.78524
+<s> though darcy could never receive him at pemberley yet for elizabeth s sake he assisted him farther in his profession </s>147.99642
+<s> i think every thing has passed off uncommonly well i assure you </s>        116.94079
+<s> there s for you </s>                                                        106.56753
+<s> darcy mentioned his letter </s>                                             185.60396
+<s> i thought i should have broke my heart </s>                                 63.42094
+<s> i was very much flattered by his asking me to dance a second time </s>      89.11526
+<s> he took leave of his relations at longbourn with as much solemnity as before wished his fair cousins health and happiness again and promised their father another letter of thanks </s>324.31427
+<s> elizabeth passed quietly out of the room jane and kitty followed but lydia stood her ground determined to hear all she could and charlotte detained first by the civility of mr collins whose inquiries after herself and all her family were very minute and then by a little curiosity satisfied herself with walking to the window and pretending not to hear </s>192.32942
+<s> it is not likely that money should be very abundant on either side and it might strike them that they could be more economically though less expeditiously married in london than in scotland </s>327.04576
+<s> no said colonel fitzwilliam that is an advantage which he must divide with me </s>128.95490
+<s> he looked serious as usual and she thought more as he had been used to look in hertfordshire than as she had seen him at pemberley </s>53.79913
+<s> it is not of peculiar but of general evils which i am now complaining </s>  257.47654
+<s> for forty years he produced and distributed project ebooks with only a loose network of volunteer support </s>3225.21656
+<s> it will be in my power to assure him that her ladyship was quite well yesterday se <TIME> </s>77.40685
+<s> you will easily comprehend from these particulars that mr wickham s circumstances are not so hopeless as they are generally believed to be </s>81.68179
+<s> i have said no such thing </s>                                              14.95704
+<s> email contact links and up to date contact information can be found at the foundation s web site and official page at <URL> for additional contact information dr gregory b </s>6784.41214
+<s> yet he knew to the contrary himself </s>                                    180.76622
+<s> scarcely any thing was talked of the whole day or next <TIME> but their visit to rosings </s>109.82402
+<s> they had all been very since she last saw her sister </s>                   100.96200
+<s> and so would anne if her health had allowed her to apply </s>               313.38627
+<s> it was a journey of only miles and they began it so early as to be in by noon </s>218.93656
+<s> eliza bennet said miss bingley when the door was closed on her is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own and with many men i dare say it succeeds </s>246.41031
+<s> i never heard any harm of her and i dare say she is one of the most tractable creatures in the world </s>72.82472
+<s> there is but such a quantity of merit between them just enough to make one good sort of man and of late it has been shifting about pretty much </s>416.71519
+<s> from an unwillingness to confess how much her intimacy with mr darcy had been elizabeth had never yet answered mrs gardiner s long letter but now having that to communicate which she knew would be most welcome she was almost ashamed to find that her uncle and aunt had already lost three days of happiness and immediately wrote as follows i would have thanked you before my dear aunt as i ought to have done for your long kind satisfactory detail of particulars but to say the truth i was too cross to write </s>226.47512
+<s> you must not suspect me </s>                                                56.35089
+<s> vanity and pride are different things though the words are often used synonimously </s>994.69036
+<s> had you then persuaded yourself that i should </s>                          211.92525
+<s> in spite of her dislike she could not be insensible to the compliment of such a man s affection and though her intentions did not vary for an instant she was at first sorry for the pain he was to receive till roused to resentment by his subsequent language she lost all compassion in anger </s>171.83897
+<s> my dear niece i have just received your letter and shall devote this whole <TIME> to answering it as i foresee that a little writing will not comprise what i have to tell you </s>409.77738
+<s> the present always occupies you in such scenes does it </s>                 1191.20112
+<s> they were now almost at the door of the house for she had walked fast to get rid of him and unwilling for her sister s sake to provoke him she only said in reply with a smile come mr wickham we are brother and sister you know </s>114.09081
+<s> after walking several miles in a leisurely manner and too busy to know any thing about it they found at last on examining their watches that it was time to be at home </s>329.75670
+<s> we dressed up chamberlayne in woman s clothes on purpose to pass for a lady only think what fun </s>1437.01082
+<s> a scheme of which every part promises delight can never be successful and general disappointment is only warded off by the defence of some little peculiar vexation </s>1088.39228
+<s> and what sort of young lady is she </s>                                     36.43595
+<s> they called at various times of the <TIME> sometimes separately sometimes together and now and then accompanied by their aunt </s>321.96970
+<s> the feelings which you tell me have long prevented the acknowledgment of your regard can have little difficulty in overcoming it after this explanation </s>454.33572
+<s> books oh </s>                                                               1254.31103
+<s> i rather expected from my knowledge of her affability that it would happen </s>194.01487
+<s> lydia was a stout girl of fifteen with a fine complexion and countenance a favourite with her mother whose affection had brought her into public at an early age </s>482.76254
+<s> my kind friends will not hear of my returning home till i am better </s>    182.47019
+<s> mr darcy called and was shut up with him several hours </s>                 95.59191
+<s> unfortunately an only son for many years an only child i was spoilt by my parents who though good themselves my father particularly all that was benevolent and amiable allowed encouraged almost taught me to be selfish and overbearing to care for none beyond my own family circle to think meanly of all the rest of the world to wish at least to think meanly of their sense and worth compared with my own </s>808.79052
+<s> mrs bennet assured her that they never sat there after dinner and then added may i take the liberty of asking your ladyship whether you left mr and mrs collins well </s>141.87563
+<s> the country said darcy can in general supply but few subjects for such a study </s>496.80216
+<s> amongst the most violent against him was mrs bennet whose dislike of his general behaviour was sharpened into particular resentment by his having slighted one of her daughters </s>388.84953
+<s> we will be down as soon as we can said jane but i dare say kitty is forwarder than either of us for she went up stairs half an hour ago </s>148.37877
+<s> had lydia s marriage been concluded on the most honourable terms it was not to be supposed that mr darcy would connect himself with a family where to every other objection would now be added an alliance and relationship of the nearest kind with the man whom he so justly scorned </s>222.88146
+<s> really mr collins cried elizabeth with some warmth you puzzle me exceedingly </s>181.10347
+<s> elizabeth felt that they had entirely mistaken his character but said nothing </s>81.49726
+<s> and who is there whatever might be their former conduct that she would believe capable of such an attempt till it were proved against them </s>325.44251
+<s> nobody wants him to come </s>                                               330.13996
+<s> he did trace them easily to clapham but no farther for on entering that place they removed into a and dismissed the chaise that brought them from epsom </s>1012.25008
+<s> do let us have a little music cried miss bingley tired of a conversation in which she had no share louisa you will not mind my waking mr hurst </s>282.10185
+<s> a great deal more passed at the other table </s>                            70.73505
+<s> i wish it may </s>                                                          56.56449
+<s> before at that ball while i had the honour of dancing with you i was first made acquainted by sir william lucas s accidental information that bingley s attentions to your sister had given rise to a general expectation of their marriage </s>215.67201
+<s> they had therefore many acquaintance in common and though wickham had been little there since the death of darcy s father five years before it was yet in his power to give her fresher intelligence of her former friends than she had been in the way of procuring </s>130.69553
+<s> his behaviour to myself has been scandalous but i verily believe i could forgive him any thing and every thing rather than his disappointing the hopes and disgracing the memory of his father </s>485.46039
+<s> he is a gentleman i am a gentleman s daughter so far we are equal </s>      78.61159
+<s> he smiled and assured her that whatever she wished him to say should be said </s>139.97889
+<s> for we must attribute this happy conclusion she added in a great measure to his kindness </s>257.85447
+<s> his attentions to miss king were now the consequence of views solely and hatefully mercenary and the mediocrity of her fortune proved no longer the moderation of his wishes but his eagerness to grasp at any thing </s>386.27006
+<s> within doors there was lady catherine books and a billiard table but gentlemen cannot be always within doors and in the nearness of the parsonage or the pleasantness of the walk to it or of the people who lived in it the two cousins found a temptation from this period of walking thither almost every day </s>288.29694
+<s> your retrospections must be so totally void of reproach that the contentment arising from them is not of philosophy but what is much better of ignorance </s>884.07558
+<s> it was not to be supposed that time would give lydia that embarrassment from which she had been so wholly free at first </s>71.44968
+<s> had lydia and her mother known the substance of her conference with her father their indignation would hardly have found expression in their united volubility </s>449.05861
+<s> i am exceedingly gratified said bingley by your converting what my friend says into a compliment on the sweetness of my temper </s>261.56650
+<s> jane looked at her doubtingly </s>                                          383.48492
+<s> she blushed at the very idea and thought it would be better to speak openly to her aunt than to run such a risk </s>117.45744
+<s> mr collins my dear madam replied he let us be for ever silent on this point </s>80.64168
+<s> if what i have hitherto said can appear to you in the form of encouragement i know not how to express my refusal in such a way as may convince you of its being one </s>146.79626
+<s> i am sorry to pain you but so it was </s>                                   42.04331
+<s> then pray speak aloud </s>                                                  931.99503
+<s> it was only said lately george wickham esq </s>                             979.88148
+<s> mr wickham s chief object was unquestionably my sister s fortune which is thirty thousand pounds but i cannot help supposing that the hope of revenging himself on me was a strong inducement </s>364.73458
+<s> is not disposed to depend upon their marriage he shook his head when i expressed my hopes and said he feared w </s>175.75504
+<s> yet it is hard she sometimes thought that this poor man cannot come to a house which he has legally hired without raising all this speculation </s>814.20202
+<s> i rather wished than believed him to be sincere but at any rate was perfectly ready to accede to his proposal </s>357.39663
+<s> his first object with her he acknowledged had been to persuade her to quit her present disgraceful situation and return to her friends as soon as they could be prevailed on to receive her offering his assistance as far as it would go </s>95.47429
+<s> as she went up stairs to get ready mrs bennet followed her saying i am quite sorry lizzy that you should be forced to have that disagreeable man all to yourself </s>187.86336
+<s> yes sir but i do not know when that will be </s>                            60.06432
+<s> you have withheld the advantages which you must know to have been designed for him </s>46.86442
+<s> i am much obliged to your ladyship for your kind invitation replied elizabeth but it is not in my power to accept it i must be in town next saturday </s>83.29071
+<s> and it was settled that we should all be there by eleven o clock </s>       162.01461
+<s> she read over her aunt s commendation of him again and again </s>           65.08744
+<s> when they left the high road for the lane to hunsford every eye was in search of the parsonage and every turning expected to bring it in view </s>187.49439
+<s> mrs bennet we shall have her at netherfield at last she did indeed </s>     71.47070
+<s> you know sister we agreed long ago never to mention a word about it </s>    148.86152
+<s> she grew absolutely ashamed of herself of neither darcy nor wickham could she think without feeling that she had been blind partial prejudiced absurd </s>533.30488
+<s> on the <TIME> before my going to london said he i made a confession to him which i believe i ought to have made long ago </s>103.14439
+<s> why could not he keep on quarrelling with you as his father did before him </s>309.70626
+<s> you either chuse this method of passing the <TIME> because you are in each other s confidence and have secret affairs to discuss or because you are conscious that your figures appear to the greatest advantage in walking if the first i should be completely in your way and if the second i can admire you much better as i sit by the fire </s>485.96228
+<s> by jane this attention was received with the greatest pleasure but elizabeth still saw superciliousness in their treatment of every body hardly excepting even her sister and could not like them though their kindness to jane such as it was had a value as arising in all probability from the influence of their brother s admiration </s>212.04695
+<s> as they went down stairs together charlotte said i shall depend on hearing from you very often eliza </s>143.10508
+<s> the letter perhaps began in bitterness but it did not end so </s>           174.38307
+<s> i have told miss bennet several times that she will never play really well unless she practises more and though mrs collins has no instrument she is very welcome as i have often told her to come to rosings every day and play on the in mrs jenkinson s room </s>151.12271
+<s> the <TIME> was spent chiefly in talking over hertfordshire news and telling again what had been already written and when it closed elizabeth in the solitude of her chamber had to meditate upon charlotte s degree of contentment to understand her address in guiding and composure in bearing with her husband and to acknowledge that it was all done very well </s>421.49804
+<s> the letter shall certainly be burnt if you believe it essential to the preservation of my regard but though we have both reason to think my opinions not entirely unalterable they are not i hope quite so easily changed as that implies </s>599.87876
+<s> the united efforts of his two unfeeling sisters and of his overpowering friend assisted by the attractions of miss darcy and the amusements of london might be too much she feared for the strength of his attachment </s>245.02796
+<s> it is more than i engage for i assure you </s>                              60.00696
+<s> mr collins returned into hertfordshire soon after it had been quitted by the gardiners and jane but as he took up his abode with the lucases his arrival was no great inconvenience to mrs bennet </s>92.49344
+<s> i have just as much right to be asked as she has and more too for i am two years older </s>168.11962
+<s> let me mend it for you </s>                                                 67.55855
+<s> i wonder he does not marry to secure a lasting convenience of that kind </s>229.13982
+<s> you have </s>                                                               56.31772
+<s> after sitting in this manner a quarter of an hour without hearing miss bingley s voice elizabeth was roused by receiving from her a cold enquiry after the health of her family </s>113.67669
+<s> anxious and uneasy the period which passed in the before the gentlemen came was wearisome and dull to a degree that almost made her uncivil </s>633.94245
+<s> there could not exist in the world two men over whom mr darcy could have such boundless influence </s>487.01870
+<s> my feelings in every respect forbid it </s>                                 292.44540
+<s> i thought it my duty to give the speediest intelligence of this to my cousin that she and her noble admirer may be aware of what they are about and not run hastily into a marriage which has not been properly sanctioned </s>190.71954
+<s> i must have employment and society </s>                                     531.30856
+<s> you need not send them word at longbourn of my going if you do not like it for it will make the surprise the greater when i write to them and sign my name lydia wickham </s>287.74360
+<s> very true indeed and now my dear jane what have you got to say in behalf of the interested people who have probably been concerned in the business do clear them too or we shall be obliged to think ill of somebody </s>153.03306
+<s> such a circumstance could only exasperate farther and when he ceased the colour rose into her cheeks and she said in such cases as this it is i believe the established mode to express a sense of obligation for the sentiments avowed however unequally they may be returned </s>411.05629
+<s> indeed </s>                                                                 52.73453
+<s> when a woman has five grown up daughters she ought to give over thinking of her own beauty </s>341.36703
+<s> hang kitty </s>                                                             8263.08418
+<s> perhaps said darcy i should have judged better had i sought an introduction but i am ill qualified to recommend myself to strangers </s>198.03515
+<s> his resentment was in proportion to the distress of his circumstances and he was doubtless as violent in his abuse of me to others as in his reproaches to myself </s>566.45839
+<s> well i was so frightened i did not know what to do for my uncle was to give me away and if we were beyond the hour we could not be married all day </s>101.39075
+<s> if you will only tell me what sort of girl miss king is i shall know what to think </s>40.55719
+<s> had the late mr darcy liked me less his son might have borne with me better but his father s uncommon attachment to me irritated him i believe very early in life </s>329.32771
+<s> but tell me what did you come down to netherfield for </s>                  63.87509
+<s> it must be his own doing he is his own master </s>                          43.84360
+<s> it does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was violently in love with only a few days before </s>73.96244
+<s> yes in conjunction with his friend </s>                                     720.29950
+<s> before any answer could arrive from mr collins or any congratulations to elizabeth from his wife the longbourn family heard that the collinses were come themselves to lucas lodge </s>342.08595
+<s> till i can forget his father i can never defy or expose him </s>            284.42003
+<s> my mind was more agreeably engaged </s>                                     428.84875
+<s> indeed you must go for it will be impossible for us to visit him if you do not </s>35.64358
+<s> but my dearest love tell me what dish mr darcy is particularly fond of that i may have it </s>166.41716
+<s> this account then is what he has received from mr darcy </s>                95.58028
+<s> mr bingley inherited property to the amount of nearly an hundred thousand pounds from his father who had intended to purchase an estate but did not live to do it mr bingley intended it likewise and sometimes made choice of his county but as he was now provided with a good house and the liberty of a manor it was doubtful to many of those who best knew the easiness of his temper whether he might not spend the remainder of his days at netherfield and leave the next generation to purchase </s>377.71096
+<s> they battled it together for a long time which was more than either the gentleman or lady concerned in it deserved </s>490.89508
+<s> mr collins had a compliment and an allusion to throw in here which were kindly smiled on by the mother and daughter </s>189.81952
+<s> she was very equal therefore to address mr bingley on the subject of the ball and abruptly reminded him of his promise adding that it would be the most shameful thing in the world if he did not keep it </s>166.48026
+<s> she could think of nothing but of mr wickham and of what he had told her all the way home but there was not time for her even to mention his name as they went for neither lydia nor mr collins were once silent </s>83.27098
+<s> mr denny and mr wickham walked with the young ladies to the door of mr philips s house and then made their bows in spite of miss lydia s pressing entreaties that they would come in and even in spite of mrs philips throwing up the parlour window and loudly seconding the invitation </s>265.95023
+<s> darcy professed a great curiosity to see the view from the mount and elizabeth silently consented </s>816.27749
+<s> well now let us be quite comfortable and snug and talk and laugh all the way home </s>460.85626
+<s> it was not till the <TIME> when he joined them at tea that elizabeth ventured to introduce the subject and then on her briefly expressing her sorrow for what he must have endured he replied say nothing of that </s>133.40864
+<s> in a few minutes she was joined by bingley whose conference with her father had been short and to the purpose </s>74.00255
+<s> single my dear to be sure </s>                                              80.49438
+<s> stay stay i will go myself </s>                                             1156.67597
+<s> their taking her home and affording her their personal protection and countenance is such a sacrifice to her advantage as years of gratitude cannot enough acknowledge </s>1145.11526
+<s> yes she did </s>                                                            60.45196
+<s> mrs bennet wished to understand by it that he thought of paying his addresses to one of her younger girls and mary might have been prevailed on to accept him </s>99.42394
+<s> girls can i do any thing for you in meryton </s>                            140.20929
+<s> in terms of grateful acknowledgment for the kindness of his brother though expressed most concisely he then delivered on paper his perfect approbation of all that was done and his willingness to fulfil the engagements that had been made for him </s>426.79935
+<s> the garden in which stands my humble abode is separated only by a lane from rosings park her ladyship s residence </s>590.28936
+<s> in making me the offer you must have satisfied the delicacy of your feelings with regard to my family and may take possession of longbourn estate whenever it falls without any </s>200.51958
+<s> is your master much at pemberley in the course of the year </s>             83.24331
+<s> my uncle and aunt and i were to go together and the others were to meet us at the church </s>53.30752
+<s> yes but as it happens they are all of them very clever </s>                 158.91491
+<s> the latter was much more agreeable than his companion expected </s>         89.04942
+<s> had elizabeth been at leisure to be idle she would have remained certain that all employment was impossible to one so wretched as herself but she had her share of business as well as her aunt and amongst the rest there were notes to be written to all their friends in lambton with false excuses for their sudden departure </s>242.31954
+<s> she found that she was to receive no other answer and after a short pause added i think i have understood that mr bingley has not much idea of ever returning to netherfield again </s>70.45088
+<s> in that respect his friend had greatly the advantage </s>                   110.36384
+<s> i think i have heard you say that you know them </s>                        40.26725
+<s> now what have you to say </s>                                               70.09565
+<s> elizabeth soon saw that she was herself closely watched by miss bingley and that she could not speak a word especially to miss darcy without calling her attention </s>111.12961
+<s> and there are other circumstances which i am not at liberty which it is not worth while to relate but his lies about the whole pemberley family are endless </s>390.08080
+<s> and with regard to the resentment of his family or the indignation of the world if the former were excited by his marrying me it would not give me one moment s concern and the world in general would have too much sense to join in the scorn </s>201.76471
+<s> he has been so unlucky as to lose your friendship replied elizabeth with emphasis and in a manner which he is likely to suffer from all his life </s>111.12283
+<s> mr wickham had received his commission before he left london and he was to join his regiment at the end of a fortnight </s>37.86311
+<s> he meant to resign his commission immediately and as to his future situation he could conjecture very little about it </s>287.82360
+<s> his surprise was great </s>                                                 145.58972
+<s> had i known what i ought what i dared to do </s>                            143.68011
+<s> but if he does it any more i shall certainly let him know that i see what he is about </s>75.11840
+<s> sometimes she could fancy that he talked less than on former occasions and once or twice pleased herself with the notion that as he looked at her he was trying to trace a resemblance </s>285.83919
+<s> mr robinson s asking him how he liked our meryton assemblies and whether he did not think there were a great many pretty women in the room and which he thought the prettiest </s>244.91676
+<s> her prudent mother occupied by the same ideas forbore to invite him to sit by herself </s>1186.49935
+<s> thoughtlessness want of attention to other people s feelings and want of resolution will do the business </s>258.87652
+<s> in three volumes </s>                                                       2336.61876
+<s> the attention of the younger ones was then no longer to be gained by him </s>95.79624
+<s> but really i know not what to say </s>                                      22.90859
+<s> lady catherine sir william and mr and mrs collins sat down to quadrille and as miss de bourgh chose to play at cassino the two girls had the honour of assisting mrs jenkinson to make up her party </s>135.76732
+<s> my dearest child she cried i can think of nothing else </s>                 56.81713
+<s> yes and i had heard it before </s>                                          62.58998
+<s> he made no answer and they were again silent till they had gone down the dance when he asked her if she and her sisters did not very often walk to meryton </s>49.36986
+<s> mrs bennet was privileged to whisper it to mrs philips and she ventured without any permission to do the same by all her neighbours in meryton </s>107.61867
+<s> she had always spoken to him as she would to any other gentleman she made not the smallest objection to his joining in the society of the neighbourhood nor to his leaving his parish occasionally for a week or two to visit his relations </s>98.92196
+<s> an airing would do me a great deal of good i am sure </s>                   108.84659
+<s> it could not be for society as he frequently sat there ten minutes together without opening his lips and when he did speak it seemed the effect of necessity rather than of choice a sacrifice to propriety not a pleasure to himself </s>420.71553
+<s> a man of honour could not have doubted the intention but mr darcy chose to doubt it or to treat it as a merely conditional recommendation and to assert that i had forfeited all claim to it by extravagance imprudence in short any thing or nothing </s>382.35177
+<s> then after a short silence he continued lizzy i bear you no for being justified in your advice to me last may which considering the event shews some greatness of mind </s>511.97364
+<s> it is a long time mr bingley since you went away said mrs bennet </s>       31.25953
+<s> they owed the restoration of lydia her character every thing to him </s>    208.71637
+<s> widely different was the effect of a second perusal how could she deny that credit to his assertions in one instance which she had been obliged to give in the other he declared himself to have been totally unsuspicious of her sister s attachment and she could not help remembering what charlotte s opinion had always been neither could she deny the justice of his description of jane she felt that jane s feelings though fervent were little displayed and that there was a constant complacency in her air and manner not often united with great sensibility </s>217.67554
+<s> the first part of mrs gardiner s business on her arrival was to distribute her presents and describe the newest fashions </s>250.80431
+<s> no governess </s>                                                           349.84345
+<s> mr gardiner expressed a wish of going round the whole park but feared it might be beyond a walk </s>171.03172
+<s> she had instinctively turned away but stopping on his approach received his compliments with an embarrassment impossible to be overcome </s>671.50694
+<s> georgiana had the highest opinion in the world of elizabeth though at first she often listened with an astonishment bordering on alarm at her lively sportive manner of talking to her brother </s>159.39545
+<s> it would have suited me in every respect </s>                               126.99609
+<s> between elizabeth and charlotte there was a restraint which kept them mutually silent on the subject and elizabeth felt persuaded that no real confidence could ever subsist between them again </s>250.33021
+<s> to such perseverance in wilful elizabeth would make no reply and immediately and in silence withdrew determined if he persisted in considering her repeated refusals as flattering encouragement to apply to her father whose negative might be uttered in such a manner as must be decisive and whose behaviour at least could not be mistaken for the affectation and coquetry of an elegant female </s>588.25782
+<s> do not be afraid of my running into any excess of my encroaching on your privilege of universal good will </s>813.62918
+<s> she retreated from the window fearful of being seen and as she walked up and down the room endeavouring to compose herself saw such looks of enquiring surprise in her uncle and aunt as made every thing worse </s>245.11397
+<s> in nine cases out of ten a woman had better shew more affection than she feels </s>805.55476
+<s> is there nothing you could take to give you present relief a glass of wine shall i get you one you are very ill </s>371.87389
+<s> when this was done she had a less active part to play </s>                  330.77009
+<s> but every body is to judge for themselves and the lucases are very good sort of girls i assure you </s>58.85720
+<s> he is gone to my father already </s>                                        82.97668
+<s> you are not going to introduce yourself to mr darcy </s>                    16.87055
+<s> as she had heard no carriage she thought it not unlikely to be lady catherine and under that apprehension was putting away her letter that she might escape all impertinent questions when the door opened and to her very great surprise mr darcy and mr darcy only entered the room </s>201.72623
+<s> in vain did elizabeth attempt to make her reasonable and jane to make her resigned </s>103.16116
+<s> have not you always hated him </s>                                          121.24773
+<s> mr darcy s behaviour astonished and vexed her </s>                          196.04312
+<s> what sort of a girl is miss darcy </s>                                      46.14345
+<s> if you received the work on a physical medium you must return the medium with your written explanation </s>918.71602
+<s> they lagged behind while elizabeth kitty and darcy were to entertain each other </s>409.62734
+<s> her mother stepped forwards embraced her and welcomed her with rapture gave her hand with an affectionate smile to wickham who followed his lady and wished them both joy with an alacrity which shewed no doubt of their happiness </s>355.19751
+<s> cried mrs gardiner </s>                                                     34.50680
+<s> upon the whole i am much pleased with him </s>                              31.94223
+<s> by the author of sense and sensibility </s>                                 25.18448
+<s> lizzy said her father i have given him my consent </s>                      62.97933
+<s> and they must marry </s>                                                    89.28463
+<s> is it not clear enough does it not expressly declare that caroline neither expects nor wishes me to be her sister that she is perfectly convinced of her brother s indifference and that if she suspects the nature of my feelings for him she means most kindly to put me on my guard </s>363.29997
+<s> but on returning to the when her letter was finished she saw to her infinite surprise there was reason to fear that her mother had been too ingenious for her </s>202.90066
+<s> mr jones says we must not think of moving her </s>                          322.37804
+<s> we were always encouraged to read and had all the masters that were necessary </s>282.59043
+<s> kitty to her very material advantage spent the chief of her time with her two elder sisters </s>493.85709
+<s> said she i heard you before but i could not immediately determine what to say in reply </s>78.12032
+<s> here are officers enough at meryton to disappoint all the young ladies in the country </s>120.94695
+<s> i will not be interrupted </s>                                              20.15353
+<s> their journey was performed without much conversation or any alarm and within four hours of their leaving hunsford they reached mr gardiner s house where they were to remain a few days </s>142.83028
+<s> but he had given a reason for his interference which asked no extraordinary stretch of belief </s>236.50753
+<s> i might perhaps wish to be informed why with so little endeavour at civility i am thus rejected </s>492.23700
+<s> i quite forgot </s>                                                         182.46384
+<s> it was over at last however </s>                                            40.49097
+<s> and was denny convinced that wickham would not marry </s>                   128.25642
+<s> a lively imagination soon settled it all </s>                               413.67975
+<s> i am very glad to hear such a good account of her said lady catherine and pray tell her from me that she cannot expect to excel if she does not practise a great deal </s>82.40258
+<s> it is often only carelessness of opinion and sometimes an indirect boast </s>375.49407
+<s> i certainly have had my share of beauty but i do not pretend to be any thing extraordinary now </s>39.45572
+<s> mrs bennet all amazement though flattered by having a guest of such high importance received her with the utmost politeness </s>183.94684
+<s> they were all of them warm in their admiration and at that moment she felt that to be mistress of pemberley might be something </s>87.31385
+<s> how good it was in you my dear mr bennet </s>                               98.87414
+<s> she enquired into charlotte s domestic concerns familiarly and minutely and gave her a great deal of advice as to the management of them all told her how every thing ought to be regulated in so small a family as her s and instructed her as to the care of her cows and her poultry </s>277.92593
+<s> lizzy is only headstrong in such matters as these </s>                      123.35388
+<s> i wonder my aunt did not tell us of that </s>                               88.55957
+<s> but we considered it we talked of it as impossible </s>                     133.16261
+<s> what a fine thing for our girls </s>                                        161.02047
+<s> to fortune i am perfectly indifferent and shall make no demand of that nature on your father since i am well aware that it could not be complied with and that one thousand pounds in the <NUM> per cents </s>178.47086
+<s> but vanity not love has been my folly pleased with the preference of one and offended by the neglect of the other on the very beginning of our acquaintance i have courted prepossession and ignorance and driven reason away where either were concerned </s>591.92867
+<s> at one time she had almost resolved on applying to him but the idea was checked by the awkwardness of the application and at length wholly banished by the conviction that mr darcy would never have hazarded such a proposal if he had not been well assured of his cousin s corroboration </s>171.81324
+<s> but here by carrying with me one ceaseless source of regret in my sister s absence i may reasonably hope to have all my expectations of pleasure realized </s>439.48841
+<s> wherever you and jane are known you must be respected and valued and you will not appear to less advantage for having a couple of or i may say three very silly sisters </s>360.38905
+<s> perhaps not the less so from feeling a doubt of my positive happiness had my fair cousin honoured me with her hand for i have often observed that resignation is never so perfect as when the blessing denied begins to lose somewhat of its value in our estimation </s>491.97325
+<s> lydia my love ring the bell </s>                                            366.47915
+<s> he bore with philosophy the conviction that elizabeth must now become acquainted with whatever of his ingratitude and falsehood had before been unknown to her and in spite of every thing was not wholly without hope that darcy might yet be prevailed on to make his fortune </s>180.58444
+<s> miss lucas is married and settled </s>                                      163.20373
+<s> repeated elizabeth in utter amazement </s>                                  620.57112
+<s> i beg your pardon replied miss bingley turning away with a sneer </s>       131.07243
+<s> certainly </s>                                                              99.63332
+<s> cried elizabeth as soon as they were by themselves </s>                     25.92902
+<s> i do not believe she often sees such at home </s>                           71.22768
+<s> this information made elizabeth smile as she thought of poor miss bingley </s>169.42139
+<s> her sister made not the smallest objection and the was opened and darcy after a few moments recollection was not sorry for it </s>86.48562
+<s> but unluckily for her ladyship its effect had been exactly contrariwise </s>745.97474
+<s> as he spoke there was a sort of smile which elizabeth fancied she understood he must be supposing her to be thinking of jane and netherfield and she blushed as she answered i do not mean to say that a woman may not be settled too near her family </s>103.37556
+<s> to mr and mrs gardiner he was scarcely a less interesting personage than to herself </s>146.11473
+<s> no more have i said mr bennet and i am glad to find that you do not depend on her serving you </s>86.17301
+<s> design </s>                                                                 5167.09049
+<s> the vicious propensities the want of principle which he was careful to guard from the knowledge of his best friend could not escape the observation of a young man of nearly the same age with himself and who had opportunities of seeing him in unguarded moments which mr darcy could not have </s>270.89397
+<s> an union of a different tendency and precluding the possibility of the other was soon to be formed in their family </s>247.52623
+<s> that will not do for a compliment to darcy caroline cried her brother because he does not write with ease </s>135.83195
+<s> which will not be yours till after your mother s decease is all that you may ever be entitled to </s>132.09131
+<s> i expected you to stay two months </s>                                      260.13361
+<s> his belief of her sister s insensibility she instantly resolved to be false and his account of the real the worst objections to the match made her too angry to have any wish of doing him justice </s>176.69425
+<s> but pride where there is a real superiority of mind pride will be always under good regulation </s>571.62767
+<s> i cannot be so easily reconciled to myself </s>                             82.47346
+<s> he walked here and he walked there fancying himself so very great </s>      364.90332
+<s> society i own is necessary to me </s>                                       220.13560
+<s> he had done all this for a girl whom he could neither regard nor esteem </s>63.80925
+<s> do any thing rather than marry without affection </s>                       370.74252
+<s> i cannot do justice to his kindness </s>                                    52.89741
+<s> mrs philips s vulgarity was another and perhaps a greater tax on his forbearance and though mrs philips as well as her sister stood in too much awe of him to speak with the familiarity which bingley s good humour encouraged yet whenever she did speak she must be vulgar </s>307.81747
+<s> the dinner was as well dressed as any i ever saw </s>                       194.52612
+<s> mrs jenkinson was chiefly employed in watching how little miss de bourgh ate pressing her to try some other dish and fearing she were indisposed </s>635.64662
+<s> it will save me a world of trouble and economy </s>                         238.08236
+<s> the whole party were in hopes of a letter from mr bennet the next <TIME> but the post came in without bringing a single line from him </s>100.68013
+<s> their first subject was the diminution of the rosings party i assure you i feel it exceedingly said lady catherine i believe nobody feels the loss of friends so much as i do </s>127.20214
+<s> you will hardly blame me for refusing to comply with this entreaty or for resisting every repetition of it </s>310.56917
+<s> but how did he account for it </s>                                          86.53536
+<s> lady catherine seemed pleased </s>                                          25.00673
+<s> what am i to do </s>                                                        64.96710
+<s> elizabeth did not quit her room for a moment nor were the other ladies often absent the gentlemen being out they had in fact nothing to do elsewhere </s>201.63169
+<s> said he that is rather singular </s>                                        171.26994
+<s> our situation with regard to lady catherine s family is indeed the sort of extraordinary advantage and blessing which few can boast </s>357.88607
+<s> she is a very great favourite with some ladies of my acquaintance mrs hurst and miss bingley </s>42.39216
+<s> but may we not hope that the period of future happiness to which miss bingley looks forward may arrive earlier than she is aware and that the delightful intercourse you have known as friends will be renewed with yet greater satisfaction as sisters mr bingley will not be detained in london by them </s>568.45693
+<s> my brother and the gentlemen are to dine with the officers </s>             86.73837
+<s> and so you like this man s sisters too do you </s>                          193.35213
+<s> but you are not entitled to know mine nor will such behaviour as this ever induce me to be explicit </s>273.17397
+<s> to his tacit engagement with miss de bourgh </s>                            148.77885
+<s> said her aunt </s>                                                          51.08039
+<s> never intended to go there or to marry lydia at all which was repeated to colonel f </s>139.29421
+<s> i cannot comprehend the neglect of a family library in such days as these </s>118.51841
+<s> let me write for you said jane if you dislike the trouble yourself </s>     108.26447
+<s> i am only distressed by some dreadful news which i have just received from longbourn </s>100.38594
+<s> you will hardly bear to be long outdone by jane </s>                        307.28761
+<s> but there were two or three much uglier in the shop and when i have bought some satin to trim it with fresh i think it will be very tolerable </s>248.62682
+<s> but i am very far from agreeing with you in your estimation of ladies in general </s>95.00856
+<s> it cannot be done too much and when i next write to her i shall charge her not to neglect it on any account </s>97.82027
+<s> bingley was punctual to his appointment and he and mr bennet spent the <TIME> together as had been agreed on </s>264.68737
+<s> mr bennet in equal silence was enjoying the scene </s>                      299.39895
+<s> he began to wish to know more of her and as a step towards conversing with her himself attended to her conversation with others </s>100.18820
+<s> lady catherine s great attentions to mrs collins you have been a daily witness of and altogether i trust it does not appear that your friend has drawn an unfortunate but on this point it will be as well to be silent </s>131.08731
+<s> sir william staid only a week at hunsford but his visit was long enough to convince him of his daughter s being most comfortably settled and of her possessing such a husband and such a neighbour as were not often met with </s>150.63959
+<s> they are gone down to newcastle a place quite northward it seems and there they are to stay i do not know how long </s>178.99193
+<s> she would not give him time to reply but hurrying instantly to her husband called out as she entered the library oh </s>121.83006
+<s> i can answer your question said fitzwilliam without applying to him </s>    508.79524
+<s> how heartily did she grieve over every ungracious sensation she had ever encouraged every saucy speech she had ever directed towards him </s>1152.27750
+<s> <NUM> b </s>                                                                883.38239
+<s> miss bingley however was incapable of disappointing mr darcy in any thing and persevered therefore in requiring an explanation of his two motives </s>306.15939
+<s> will it not be advisable before we proceed on this subject to arrange with rather more precision the degree of importance which is to appertain to this request as well as the degree of intimacy subsisting between the parties </s>468.40687
+<s> only think of that my dear he actually danced with her twice and she was the only creature in the room that he asked a second time </s>40.37529
+<s> she is the most beautiful creature i ever beheld </s>                       138.35996
+<s> if i may so express it he has a right to be proud </s>                      117.82970
+<s> i dare say he often hears worse things said than i am going to say </s>     176.32350
+<s> she smiled but made no answer </s>                                          37.34042
+<s> and if you will stay another month complete it will be in my power to take one of you as far as london for i am going there early in june for a week and as dawson does not object to the barouche box there will be very good room for one of you and indeed if the weather should happen to be cool i should not object to taking you both as you are neither of you large </s>196.77278
+<s> here was knowledge in which no one could partake and she was sensible that nothing less than a perfect understanding between the parties could justify her in throwing off this last incumbrance of mystery </s>774.86402
+<s> and with no one to speak to of what i felt no jane to comfort me and say that i had not been so very weak and vain and nonsensical as i knew i had </s>129.20024
+<s> so high and so conceited that there was no enduring him </s>                410.05142
+<s> the dinner too in its turn was highly admired and he begged to know to which of his fair cousins the excellence of its cookery was owing </s>458.55265
+<s> the dinner was exceedingly handsome and there were all the servants and all the articles of plate which mr collins had promised and as he had likewise foretold he took his seat at the bottom of the table by her ladyship s desire and looked as if he felt that life could furnish nothing greater he carved and ate and praised with delighted alacrity and every dish was commended first by him and then by sir william who was now enough recovered to echo whatever his son in law said in a manner which elizabeth wondered lady catherine could bear </s>368.61803
+<s> she had turned away but on hearing herself called though in a voice which proved it to be mr darcy she moved again towards the gate </s>116.76299
+<s> not at all he replied they were brightened by the exercise a short pause followed this speech and mrs hurst began again </s>119.80647
+<s> i rather wonder now at your knowing any </s>                                788.90221
+<s> she is well and begs to be dutifully remembered to you and her mother your s c </s>208.86083
+<s> elizabeth felt herself growing more angry every moment yet she tried to the utmost to speak with composure when she said you are mistaken mr darcy if you suppose that the mode of your declaration affected me in any other way than as it spared me the concern which i might have felt in refusing you had you behaved in a more manner </s>216.66165
+<s> this is quite shocking he deserves to be publicly disgraced </s>            453.34695
+<s> his own father did not long survive mine and within half a year from these events mr wickham wrote to inform me that having finally resolved against taking orders he hoped i should not think it unreasonable for him to expect some more immediate pecuniary advantage in lieu of the preferment by which he could not be benefited </s>307.31912
+<s> while she spoke an involuntary glance shewed her darcy with an heightened complexion earnestly looking at her and his sister overcome with confusion and unable to lift up her eyes </s>323.86086
+<s> and then when you go away you may leave one or two of my sisters behind you and i dare say i shall get husbands for them before the winter is over </s>107.48722
+<s> yes he went on tuesday as i wrote you word </s>                             240.72437
+<s> his choice is disinterested at least for he must know my father can give her nothing </s>171.08800
+<s> the easy assurance of the young couple indeed was enough to provoke him </s>136.24483
+<s> mrs bennet and kitty walked off and as soon as they were gone mr collins began </s>43.13054
+<s> i think i have heard you say that their uncle is an attorney in meryton </s>49.04316
+<s> she was no sooner in possession of it than hurrying into the little copse where she was least likely to be interrupted she sat down on one of the benches and prepared to be happy for the length of the letter convinced her that it did not contain a denial </s>122.68855
+<s> <NUM> f <NUM> </s>                                                          13.94390
+<s> mr darcy took her advice and did finish his letter </s>                     175.56105
+<s> it taught me to hope said he as i had scarcely ever allowed myself to hope before </s>137.31119
+<s> mr bennet s emotions were much more tranquil on the occasion and such as he did experience he pronounced to be of a most agreeable sort for it gratified him he said to discover that charlotte lucas whom he had been used to think tolerably sensible was as foolish as his wife and more foolish than his daughter </s>156.92059
+<s> but my dear your father cannot spare the horses i am sure </s>              72.22702
+<s> long before it had taken place my opinion of you was decided </s>           274.56516
+<s> here they were interrupted by lady catherine who called out to know what they were talking of </s>33.59777
+<s> in future i hope we shall be always of one mind </s>                        78.11339
+<s> chapter iii </s>                                                            57.37760
+<s> lydia the humiliation the misery she was bringing on them all soon swallowed up every private care and covering her face with her handkerchief elizabeth was soon lost to every thing else and after a pause of several minutes was only recalled to a sense of her situation by the voice of her companion who in a manner which though it spoke compassion spoke likewise restraint said i am afraid you have been long desiring my absence nor have i any thing to plead in excuse of my stay but real though unavailing concern </s>511.53464
+<s> my dear lizzy do not give way to such feelings as these </s>                65.00603
+<s> when she did come it was very evident that she had no pleasure in it she made a slight formal apology for not calling before said not a word of wishing to see me again and was in every respect so altered a creature that when she went away i was perfectly resolved to continue the acquaintance no longer </s>99.87606
+<s> mr collins was punctual to his time and was received with great politeness by the whole family </s>47.08886
+<s> but she is perfectly amiable and often condescends to drive by my humble abode in her little phaeton and ponies </s>501.56437
+<s> mr gardiner soon wrote again to his brother </s>                            74.03845
+<s> mrs hurst and miss bingley had spent some hours of the <TIME> with the invalid who continued though slowly to mend and in the <TIME> elizabeth joined their party in the </s>146.76539
+<s> volunteers and financial support to provide volunteers with the assistance they need are critical to reaching project s goals and ensuring that the project collection will remain freely available for generations to come </s>4998.10079
+<s> have you never happened to see her there </s>                               92.11470
+<s> remember eliza that he does not know jane s disposition as you do </s>      152.93895
+<s> her own thoughts were employing her </s>                                    886.19942
+<s> such a disappointment </s>                                                  309.87230
+<s> more than once did elizabeth in her ramble within the park unexpectedly meet mr darcy she felt all the perverseness of the mischance that should bring him where no one else was brought and to prevent its ever happening again took care to inform him at first that it was a favourite haunt of hers how it could occur a second time therefore was very odd yet it did and even a third </s>361.91863
+<s> poor kitty has anger for having concealed their attachment but as it was a matter of confidence one cannot wonder </s>263.48478
+<s> how could i ever be foolish enough to expect a renewal of his love </s>     70.37718
+<s> i will make no promise of the kind </s>                                     41.98254
+<s> it is a proof of your own attachment to hertfordshire </s>                  44.24033
+<s> i beg your pardon </s>                                                      20.58574
+<s> with great energy but it is a subject which always makes a lady energetic </s>322.81413
+<s> see paragraph <NUM> c below </s>                                            80.02786
+<s> but it is of small importance </s>                                          77.11059
+<s> you have delighted us long enough </s>                                      120.31123
+<s> mrs long told me last <TIME> that he sat close to her for half an hour without once opening his lips </s>134.02425
+<s> oh jane had we been less secret had we told what we knew of him this could not have happened </s>319.88514
+<s> the envelope contained a sheet of elegant little hot pressed paper well covered with a lady s fair flowing hand and elizabeth saw her sister s countenance change as she read it and saw her dwelling intently on some particular passages </s>981.27672
+<s> perhaps that is not possible for any one </s>                               73.34869
+<s> this is the only point i flatter myself on which we do not agree </s>       43.67450
+<s> i think you said she was a widow sir </s>                                   130.63117
+<s> i must confess myself surprised by your application i did not expect it from you </s>66.15212
+<s> however if you provide access to or distribute copies of a project work in a format other than plain vanilla ascii or other format used in the official version posted on the official project web site <URL> you must at no additional cost fee or expense to the user provide a copy a means of exporting a copy or a means of obtaining a copy upon request of the work in its original plain vanilla ascii or other form </s>1854.96469
+<s> that he was really fond of jane she doubted no more than she had ever done and much as she had always been disposed to like him she could not think without anger hardly without contempt on that easiness of temper that want of proper resolution which now made him the slave of his designing friends and led him to sacrifice his own happiness to the caprice of their inclinations </s>175.05748
+<s> that is exactly the question which i expected you to ask </s>               74.08407
+<s> make haste and come down this moment </s>                                   74.93537
+<s> but from what the report of their engagement could originate elizabeth was at a loss to imagine till she recollected that his being the intimate friend of bingley and her being the sister of jane was enough at a time when the expectation of one wedding made every body eager for another to supply the idea </s>254.19912
+<s> they are all for what they can get </s>                                     62.33253
+<s> even elizabeth might have found some trial of her patience in weather which totally suspended the improvement of her acquaintance with mr wickham and nothing less than a dance on tuesday could have made such a friday saturday sunday and monday endurable to kitty and lydia </s>541.10169
+<s> in a few minutes he approached the table where she was sitting with kitty and while pretending to admire her work said in a whisper go to your father he wants you in the library </s>145.62485
+<s> at his own ball he offended two or three young ladies by not asking them to dance and i spoke to him twice myself without receiving an answer </s>199.94747
+<s> who that knows what his misfortunes have been can help feeling an interest in him </s>438.95225
+<s> and poor mr darcy </s>                                                      89.06191
+<s> she had a sister married to a mr philips who had been a clerk to their father and succeeded him in the business and a brother settled in london in a respectable line of trade </s>170.12910
+====================================================================================================
+Average Perplexity                                                              188.38155
